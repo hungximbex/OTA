@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	   <T00F>
-            <Filename>RR-N-v5.8.2-20170401-T00F-Unofficial.zip</Filename>       
+            <Filename>RR-N-v5.8.2-20170331-T00F-Unofficial.zip</Filename>       
             <RomUrl
                 id="rom"
                 title="Tải rom"
