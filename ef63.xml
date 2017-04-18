@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+	   <ef63>
+            <Filename>RR-N-v5.8.3-20170418-ef63-Official.zip</Filename>       
+            <RomUrl
+                id="rom"
+                title="Tải rom mới nhất"
+                description="Tải rom 18/04/2017">https://sourceforge.net/projects/nguyenhung9x/files/RR/A910/RR-N-v5.8.3-20170418-ef63-Official.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Những thay đổi"
+                description="Update android 7.1.2">https://raw.githubusercontent.com/ResurrectionRemix/android_vendor_resurrection/nougat/CHANGELOG.mkdn</ChangelogUrl>
+       	</ef63>
+       </Stable>
+  </SlimOTA>
