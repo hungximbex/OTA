@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	   <T00F>
-            <Filename>RR-N-v5.8.3-20170419-T00F-Unofficial.zip</Filename>       
+            <Filename>RR-N-v5.8.3-20170420-T00F-Unofficial.zip</Filename>       
             <RomUrl
                 id="rom"
                 title="Tải rom mới nhất"
-                description="Tải rom 19/04/2017">https://sourceforge.net/projects/nguyenhung9x/files/RR/T00F/RR-N-v5.8.3-20170419-T00F-Unofficial.zip/download</RomUrl>
+                description="Tải rom 19/04/2017">https://sourceforge.net/projects/nguyenhung9x/files/RR/T00F/RR-N-v5.8.3-20170420-T00F-Unofficial.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Những thay đổi"
