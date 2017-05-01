@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<OctOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <COMMUNITY>
+        <T00F>
+            <Filename>OCT-N-COMMUNITY-20170501-0524-T00F.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="OCT-N-COMMUNITY-20170501-0524-T00F.zip">https://sourceforge.net/projects/nguyenhung9x/files/OctOS/T00F/OCT-N-COMMUNITY-20170501-0524-T00F.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="OCT-N-WEEKLY-20170107-0014-athene-changelog.log">https://www.teamoctos.com/download/oct-14.1/athene/OCT-N-WEEKLY-20170107-0014-athene-changelog.log</ChangelogUrl>
+            <Md5sumUrl
+                id="md5sum"
+                title="Md5sum"
+                description="OCT-N-WEEKLY-20170107-0014-athene.zip.md5sum">https://sourceforge.net/projects/nguyenhung9x/files/OctOS/T00F/OCT-N-COMMUNITY-20170501-0524-T00F.zip.md5sum/download</Md5sumUrl>
+        </T00F>
+      </COMMUNITY>
+</OctOTA>
