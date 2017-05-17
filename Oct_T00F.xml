@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OctOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <COMMUNITY>
+    <Community>
         <T00F>
             <Filename>OCT-N-COMMUNITY-20170517-0738-T00F.zip</Filename>
             <RomUrl
@@ -12,5 +12,5 @@
                 title="Changelog"
                 description="OCT-N-COMMUNITY-20170517-0136-T00F-changelog.log">https://sourceforge.net/projects/nguyenhung9x/files/OctOS/T00F/OCT-N-COMMUNITY-20170517-0136-T00F-changelog.log/download</ChangelogUrl>
         </T00F>
-    </COMMUNITY>
+    </Community>
 </OctOTA>    
